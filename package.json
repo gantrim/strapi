@@ -50,6 +50,7 @@
     "koa-gzip": "~0.1.0",
     "koa-i18n": "~1.2.0",
     "koa-ip": "~0.1.0",
+    "koa-jwt": "^3.2.2",
     "koa-load-middlewares": "~1.0.0",
     "koa-locale": "~1.0.0",
     "koa-lusca": "~2.1.0",
@@ -84,9 +85,11 @@
     "winston": "~2.1.1"
   },
   "devDependencies": {
+    "eslint-plugin-react": "^7.0.1",
     "expect.js": "~0.3.1",
     "istanbul": "~0.4.1",
     "jade": "~1.11.0",
+    "koa-custom-statuses": "^1.5.2",
     "methods": "~1.1.1",
     "mocha": "~2.3.4",
     "pre-commit": "~1.1.2",
